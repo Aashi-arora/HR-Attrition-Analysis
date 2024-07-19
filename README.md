@@ -15,9 +15,8 @@ The initial dataset contained various missing values and discrepancies. The data
 1. Categorized `Age` and `Years_of_Service` into more precise groups.
 2. Standardized `Position` and `Gender` columns.
 3. Categorized `Salary`, `Training_hours`, `Absenteeism`, and `Distance_from_Work` into meaningful groups.
-4. Renamed `Satisfaction_Score` to `Employer_Satisfaction_Score`.
-5. Derived `Employee_JobSatisfaction_Score` and `EmployeeBenefitScore` from job satisfaction factors and employee benefits.
-6. Filtered out interns from the analysis.
+4. Derived `Employee_JobSatisfaction_Score` and `EmployeeBenefitScore` from job satisfaction factors and employee benefits.
+5. Filtered out interns from the analysis.
 
 ## Analysis and Insights
 
