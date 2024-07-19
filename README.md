@@ -38,8 +38,6 @@ The initial dataset contained various missing values and discrepancies. The data
    - High attrition rates among Software Engineers (83%) and Content Creators (70%).
    - Lower attrition rates for Data Scientists and Data Analysts.
 
-5. **Salary, Promotion, and Years_of_Service**
-   - High attrition in higher income groups (90 Lacs-1 Cr) due to lack of promotions despite long tenure.
 
 ### Training Program Optimization
 
@@ -54,27 +52,8 @@ The initial dataset contained various missing values and discrepancies. The data
 ## Recommendations
 
 1. **Review Promotion Policies**: Ensure fairness and transparency in promotions.
-2. **Address Commuting Challenges**: Consider remote work or transportation benefits.
-3. **Conduct Confidential Surveys**: Identify department-specific issues.
-4. **Communicate Leadership Changes**: Maintain trust during leadership transitions.
-5. **Implement Structured Salary Reviews**: Reward loyalty and performance.
-6. **Improve Departmental Performance**: Targeted training and resources for Sales, Marketing, and Operations.
-7. **Optimize Training Programs**: Ensure training is effective and engaging.
-8. **Foster a Positive Work Environment**: Promote work-life balance and recognize achievements.
-9. **Gather Qualitative Feedback**: Use exit surveys to understand attrition reasons.
-
-## Files
-
-- `data/HR_data.csv`: The dataset used for analysis.
-- `sql_queries/data_cleaning.sql`: SQL queries for data cleaning.
-- `sql_queries/analysis.sql`: SQL queries for data analysis.
-- `sql_queries/visualization.sql`: SQL queries for generating insights and visualizations.
-- `report/HR_Data_Analysis_Report.pdf`: The detailed project report.
-
-## Dependencies
-
-- SQL Database: Any SQL-compatible database for running the queries.
-
-## Conclusion
-
-This project provides insights into employee attrition and training effectiveness, offering actionable recommendations to improve HR practices and employee retention.
+2. **Conduct Confidential Surveys**: Identify department-specific issues.
+3. **Implement Structured Salary Reviews**: Reward loyalty and performance.
+4. **Improve Departmental Performance**: Targeted training and resources for Sales, Marketing, and Operations.
+5. **Foster a Positive Work Environment**: Promote work-life balance and recognize achievements.
+6. **Gather Qualitative Feedback**: Use exit surveys to understand attrition reasons.
